@@ -4,3 +4,4 @@
 ### Data Science Toolbox
 * Week 1 - Introduction
 * Week 2 - Installation
+* Week 3 - Questions
